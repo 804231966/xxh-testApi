@@ -57,7 +57,20 @@
       <recent name="C:\Users\80423\IdeaProjects\api_frame\testData" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestApi5.addTest">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.xxhexample.Main" />
+      <module name="api_frame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.xxhexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestApi3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="api_frame" />
       <extension name="coverage">
@@ -69,24 +82,6 @@
       <option name="PACKAGE_NAME" value="com.api" />
       <option name="MAIN_CLASS_NAME" value="com.api.TestApi3" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestApi4.addTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="api_frame" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.api.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.api" />
-      <option name="MAIN_CLASS_NAME" value="com.api.TestApi4" />
-      <option name="METHOD_NAME" value="addTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -149,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="TestNG.TestApi5.addTest" />
         <item itemvalue="TestNG.TestApi5.selectTest" />
         <item itemvalue="TestNG.TestApi5.loginTest" />
         <item itemvalue="TestNG.TestApi3" />
-        <item itemvalue="TestNG.TestApi4.addTest" />
       </list>
     </recent_temporary>
   </component>
